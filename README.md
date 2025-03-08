@@ -16,7 +16,7 @@ In this folder, you'll find:
 - Data collection, preprocessing, and visualization  
 - Supervised & unsupervised machine learning techniques  
 - Feature engineering and model optimization  
-- Deployment-ready Python workflows  
+- Hyperparameter tuning
 
 ## 🛠️ Tools & Technologies  
 - **Programming:** Python  
